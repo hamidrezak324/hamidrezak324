@@ -22,11 +22,6 @@ You can click the Preview link to take a look at your changes.
 
 ### Most Used Languages
 
-```plaintext
-Jupyter Notebook: 97.97%
-HTML: 0.05%
-JavaScript: 1.37%
-Python: 0.10%
-Makefile: 0.01%
-CSS: 0.01%
-Jinja: 0.04%
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+
