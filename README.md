@@ -23,5 +23,6 @@ You can click the Preview link to take a look at your changes.
 ### Most Used Languages
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidrezak324&layout=compact&theme=radical)
+
 
